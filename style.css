@@ -1,0 +1,34 @@
+.div1{
+width: 500px;
+height: 300px;
+background-color: lightpink;
+padding: 20px;
+border: 5px dotted red;
+border-radius: 10%;
+}
+
+.img_object{
+    height: 100px;
+    width: 100px;
+    border-radius: 30%;
+}
+
+.results{
+    background-color: lightblue;
+    color: darkcyan;
+    width: 500px;
+    margin-bottom: 20px;
+    border: 2px solid darkmagenta;
+    margin-top: 20px;
+    box-shadow: 5px 5px 20px darkviolet;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-image:linear-gradient(limegreen, yellow);
+    color: rebeccapurple;
+    font-size: 30px;
+    font-weight: bolder;
+}
